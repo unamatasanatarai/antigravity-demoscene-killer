@@ -3,7 +3,7 @@
 This project contains a progression of fire simulations, culminating in a WebGL demoscene demo.
 
 ## Final Result
-The final output is **[demoscene-killer-v2.html](demoscene-killer-v2.html)**. Open it in any modern browser to see the result.
+The final output is **[demoscene-killer-v2.html](https://unamatasanatarai.github.io/antigravity-demoscene-killer/demoscene-killer-v2.html)**. Open it in any modern browser to see the result.
 
 ## Reproduction Prompt
 To generate the final result from scratch using an LLM, use the following prompt:
